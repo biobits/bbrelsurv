@@ -1,0 +1,12 @@
+Package: bbrelsurv
+Type: Package
+Title: R package to streamline relative survival analysis. 
+Version: 0.0.1
+Author: Stefan Bartels
+Maintainer: Stefan Bartels <email@biobits.eu>
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
+Imports:
+    periodR
+RoxygenNote: 6.1.0
